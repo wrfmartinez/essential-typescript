@@ -1,0 +1,10 @@
+{
+  "include": ["src/**/*"],
+  "compilerOptions": {
+    "allowJs": true,
+    "checkJs": true,
+    "target": "ESNEXT",
+    "outDir": "build",
+    "noEmit": true,
+  }
+}
